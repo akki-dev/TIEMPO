@@ -39,11 +39,3 @@
 
 
 }());
-
-/*
-var total = {
-                dias: ['domingo', 'lunes', 'martes', 'miercoles', 'Jueves', 'viernes', 'sabado'],
-                meses: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre',
-                    'Agosto', 'Noviembre', 'Diciembre'
-                ]
-            };*/
